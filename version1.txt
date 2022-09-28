@@ -2,5 +2,8 @@ print("hello!")
 print("how are you?")
 print("what's your name?")
 print("what's your favorite color?")
+print("hi!")
+print("hello")
 print("hi")
 print("hello!")
+
